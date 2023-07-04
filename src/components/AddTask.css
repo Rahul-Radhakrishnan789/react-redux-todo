@@ -1,0 +1,44 @@
+.heading{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 3pc;
+    font-weight: 700;
+    color:navy;
+    
+    
+}
+
+.input{
+    height:70px;
+    display: flex;
+     align-items: center;
+    justify-content: center; 
+    width: 100%;
+    
+}
+.input input{
+    border-color: transparent;
+    outline-color: transparent;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 25px;
+    padding: 5px;
+    height: 30px;
+    width:300px;  
+    margin-right: 30px;
+      
+    
+}
+.input button{
+  background-color:rgb(16, 201, 59);
+  height:40px;
+  width:80px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+  
