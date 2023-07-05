@@ -2,7 +2,7 @@ import React from 'react'
 
 import { useDispatch, useSelector } from 'react-redux';
 import { remove,update } from '../Redux/todoSlice';
-
+ import './TaskList.css'
 
 
 export const TaskList = () => {
